@@ -1,0 +1,7 @@
+{
+  "version": "1.0.43",
+  "channel": "stable",
+  "tag": "v1.0.43",
+  "installer": "Checkers_Tool_Setup_1.0.43.exe",
+  "notes": "Automatic system registration, visual refresh, large severity-colored notifications, and GitHub updater."
+}
