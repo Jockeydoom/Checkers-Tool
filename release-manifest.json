@@ -1,7 +1,8 @@
 {
-  "version": "1.0.43",
+  "version": "1.0.44",
   "channel": "stable",
-  "tag": "v1.0.43",
-  "installer": "Checkers_Tool_Setup_1.0.43.exe",
-  "notes": "Automatic system registration, visual refresh, large severity-colored notifications, and GitHub updater."
+  "tag": "v1.0.44",
+  "installer": "Checkers_Tool_Setup_1.0.44.exe",
+  "install_scope": "current_user",
+  "notes": "Simplified Admin Center, Spool Monitor, multi-report detailer import, one-time announcements, visual refresh, and user-level installation."
 }
