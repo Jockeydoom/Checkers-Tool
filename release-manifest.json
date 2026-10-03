@@ -1,8 +1,8 @@
 {
-  "version": "1.0.46",
+  "version": "1.0.49",
   "channel": "stable",
-  "tag": "v1.0.46",
-  "installer": "Checkers_Tool_Setup_1.0.46.exe",
+  "tag": "v1.0.49",
+  "installer": "Checkers_Tool_Setup_1.0.49.exe",
   "install_scope": "current_user",
-  "notes": "New embedded branding and tab icons, Windows taskbar identity fix, standardized announcement severity colors, and configured UAE Paperless PDF root."
+  "notes": "Clean production package, exact 60-minute Paperless freshness boundary, shared SQLite index with local validated copies, multi-admin locking, and secure server-side expiry password validation."
 }
