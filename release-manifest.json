@@ -1,8 +1,8 @@
 {
-  "version": "1.0.45",
+  "version": "1.0.46",
   "channel": "stable",
-  "tag": "v1.0.45",
-  "installer": "Checkers_Tool_Setup_1.0.45.exe",
+  "tag": "v1.0.46",
+  "installer": "Checkers_Tool_Setup_1.0.46.exe",
   "install_scope": "current_user",
-  "notes": "One-time short-name profile, My Spools below 610 with aging, PDF-only UAE Paperless index, Admin 610 monitor, 10-minute indexing and manual refresh."
+  "notes": "New embedded branding and tab icons, Windows taskbar identity fix, standardized announcement severity colors, and configured UAE Paperless PDF root."
 }
